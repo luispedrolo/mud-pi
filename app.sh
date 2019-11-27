@@ -1,3 +1,3 @@
 #!bin/bash
 
-exc python simplemud.py
+exec python simplemud.py
