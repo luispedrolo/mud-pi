@@ -39,5 +39,5 @@ Author
 
 MUD Pi was written by Mark Frimston
 
-For feedback, please email <mfrimston@gmail.com> or add a comment on the 
+For feedback (for issues not related to Openshift), please email <mfrimston@gmail.com> or add a comment on the 
 project's [Github page](http://github.com/frimkron/mud-pi)
