@@ -7,24 +7,6 @@ Raspberry Pi or other low-end server.
 This is a really simple fork from MUD Pi  written by Mark Frimston. This is to deploy it on Openshift. It's only for education or test purposes, not for playing at work... :p
 
 
-Requirements
-------------
-
-You will need to install _Python_ (2.7+ or 3.3+) where you wish to run the 
-server. Installers for Windows and Mac can be found at 
-<http://www.python.org/download/>. There are also tarballs for Linux, although 
-the best way to install on Linux would be via the package manager.
-
-To allow players to connect remotely, the server will also need to be connected
-to the internet. 
-
-To connect to the server you will need a telnet client. On Mac, Linux, and 
-versions of Windows prior to Windows Vista, the telnet client is usually 
-installed by default. For Windows Vista, 7, 8 or later, you may need to follow
-[this guide](http://technet.microsoft.com/en-us/library/cc771275%28v=ws.10%29.aspx)
-to install it.
-
-
 Deploying it on Openshift
 ------------------
 
