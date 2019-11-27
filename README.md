@@ -1,4 +1,4 @@
-MUD Pi om Openshift
+MUD Pi on Openshift
 ======
 
 A simple text-based Multi-User Dungeon (MUD) game, which could be run on a 
