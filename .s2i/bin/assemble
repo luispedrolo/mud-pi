@@ -1,4 +1,4 @@
-#!bin/bash
+
 echo "Running stock build:"
 ${STI_SCRIPTS_PATH}/assemble
 echo "Fixing the mess:"
